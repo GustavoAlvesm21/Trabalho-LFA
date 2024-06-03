@@ -1,3 +1,5 @@
+#Codigo desenvolvido por: Gustavo Alves de Souza Marques, RGM:36133035
+
 import json
 import re
 import random
